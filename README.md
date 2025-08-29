@@ -44,7 +44,7 @@ Beyond engineering, I also serve as a **Cloud Trainer** and the **CIO of Solavis
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 🌐 Professional Interests
+## Professional Interests
 Nothing excites me more than seeing developers confidently embrace **cloud-native technologies** and turn their ideas into applications that are **scalable, secure, and reliable**.    
 As a **Cloud Trainer** and **CIO of Solavise Technologies Institute**, I align this passion with my mission of **empowering communities through education and hands-on learning**.  
 
@@ -93,7 +93,7 @@ I am active in the **Cloud Native** and **DevOps** community as:
 
 ---
 
-### 📌 In Progress  
+### In Progress  
 [![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](your-certificate-link)  
 [![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](your-certificate-link)  
 
