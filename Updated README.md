@@ -3,7 +3,7 @@ I’m Eric Nyuydze Wiryenkfea, a Cloud & DevOps Engineer
 With 5+ years of experience, I specialize in Cloud Infrastructure, DevOps Automation, and guiding others into tech through mentorship and public speaking.  
 
 ### GitHub Stats
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiryenkfea-Eric&show_icons=true&theme=radical&hide_rank=true)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiryenkfea-Eric&show_icons=true&theme=radical)
 
 
 ### Most Used Languages
