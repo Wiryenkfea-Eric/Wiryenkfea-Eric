@@ -1,6 +1,5 @@
 ## Hi there 👋 
-I’m Eric Nyuydze Wiryenkfea, a Cloud & DevOps Engineer   
-With 5+ years of experience, I specialize in Cloud Infrastructure, DevOps Automation, and guiding others into tech, training, community building and public speaking.  
+I’m Eric Nyuydze Wiryenkfea, a Cloud & DevOps Engineer, with 5+ years of experience, I specialize in Cloud Infrastructure, DevOps Automation, and guiding others into tech, training, community building and public speaking.  
 
 ## GitHub Stats
 
@@ -21,9 +20,8 @@ With 5+ years of experience, I specialize in Cloud Infrastructure, DevOps Automa
 I started my career in agriculture but transitioned into technology, driven by a passion for solving problems through innovation.  
 
 Along the way, I faced setbacks — including a failed attempt at building a startup — but those experiences shaped my resilience and clarity of purpose.  
-I’ve had the opportunity to work with **Alluvium**, an Atlassian and AWS Partner, which broadened my exposure to enterprise-level projects and collaboration.  
-
-Today, I’ve grown into a **Cloud & DevOps Engineer** with expertise in **AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux**.  
+I’ve had the opportunity to work with **Alluvium**, an Atlassian and AWS Partner, deploying healthcare applications with ansible tower ensuring compliance and security, deploying and managing dedicated enterprise Jira data center softwares for customer to scale and manage workload
+Today, I’ve grown into a Cloud & DevOps Engineer with expertise in **AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux**.  
 Beyond engineering, I also serve as a **Cloud Trainer** and the **CIO of Solavise Technologies Institute** an AWS Technical partner, where I guide the next generation of tech talent.  
 
 
