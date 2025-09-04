@@ -99,7 +99,7 @@ I am active in the **Cloud Native** and **DevOps** community as:
 
 
 ## My Cloud Native Plans (Checklist) — by End of 2025
-- [ ] **Speak at AWS User Group, Accra (Ghana)** — sharing my journey, learning, and adoption of cloud-native tools  
+- [ ] **Speak at AWS User Group, Accra (Ghana)** — sharing my cloud journey, learning, and adoption of cloud-native tools  
 - [ ] **Speak at Bincom Dev Community (Nigeria)** — *Building Future-Ready Security: Applying Zero Trust Architecture to Safeguard Data in Modern Enterprise Systems*  
 - [ ] **Facilitate Jira Data Center Deployment on AWS with Docker & Ansible** — empowering the Solavise Tech community with hands-on knowledge  
 - [ ] **Write and Pass the Certified Kubernetes Administrator (CKA)**  
