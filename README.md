@@ -17,10 +17,10 @@ I’m Eric Nyuydze Wiryenkfea, a Cloud & DevOps Engineer, with 5+ years of exper
 
 
 ## Professional Journey
-I started my career in agriculture but transitioned into technology, driven by a passion for solving problems through innovation.  Along the way, I faced setbacks, including a failed attempt at building a startup, but those experiences shaped my resilience and clarity of purpose.   I’ve had the opportunity to work with Alluvium, an Atlassian and AWS Partner, designing and deploying a fully functional AWS EKS cluster within 3 weeks, implementing PostgreSQL logical replication with pglogical to ensure scalable, highly available and consistent applications, improving database reliability. Today, I’ve grown into a Cloud & DevOps Engineer with expertise in AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux**. Beyond engineering, I also serve as a Cloud Trainer and the CIO of Solavise Technologies Institute an AWS Technical partner, where I guide people getting into tech aligning with industry standards.  
+I started my career in agriculture but transitioned into technology, driven by a passion for solving problems through innovation.  Along the way, I faced setbacks, including a failed attempt at building a startup, but those experiences shaped my resilience and clarity of purpose.   I’ve had the opportunity to work with Alluvium, an Atlassian and AWS Partner, designing and deploying a fully functional AWS EKS cluster within 3 weeks, implementing PostgreSQL logical replication with pglogical to ensure scalable, highly available and consistent applications, improving database reliability. Today, I’ve grown into a Cloud & DevOps Engineer with expertise in AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux. Beyond engineering, I also serve as a Cloud Trainer and the CIO of Solavise Technologies Institute an AWS Technical partner, where I guide people getting into tech aligning with industry standards.  
 
 
-## Recent Projects**
+## Recent Projects
 - Deployed Bitbucket Data Center with Bitbucket Pipelines for enterprise collaboration.  
 - Automated Jira Software Data Center deployment on AWS using Docker & Ansible (with Bastion access).  
 - Led a healthcare application deployment with Ansible Tower, AWS governance, and Parameter Store.  
