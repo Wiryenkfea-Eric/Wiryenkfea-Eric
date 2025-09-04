@@ -17,14 +17,14 @@ I’m Eric Nyuydze Wiryenkfea, a Cloud & DevOps Engineer, with 5+ years of exper
 
 
 ## Professional Journey
-I started my career in agriculture but transitioned into technology, driven by a passion for solving problems through innovation.  Along the way, I faced setbacks, including a failed attempt at building a startup, but those experiences shaped my resilience and clarity of purpose.   I’ve had the opportunity to work with **Alluvium**, an Atlassian and AWS Partner, designing and deploying a fully functional AWS EKS cluster within 3 weeks, implementing PostgreSQL logical replication with pglogical to ensure scalable, highly available and consistent applications, improving database reliability. Today, I’ve grown into a Cloud & DevOps Engineer with expertise in **AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux**. Beyond engineering, I also serve as a **Cloud Trainer** and the **CIO of Solavise Technologies Institute** an AWS Technical partner, where I guide people getting into tech aligning with industry standards.  
+I started my career in agriculture but transitioned into technology, driven by a passion for solving problems through innovation.  Along the way, I faced setbacks, including a failed attempt at building a startup, but those experiences shaped my resilience and clarity of purpose.   I’ve had the opportunity to work with Alluvium, an Atlassian and AWS Partner, designing and deploying a fully functional AWS EKS cluster within 3 weeks, implementing PostgreSQL logical replication with pglogical to ensure scalable, highly available and consistent applications, improving database reliability. Today, I’ve grown into a Cloud & DevOps Engineer with expertise in AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux**. Beyond engineering, I also serve as a Cloud Trainer and the CIO of Solavise Technologies Institute an AWS Technical partner, where I guide people getting into tech aligning with industry standards.  
 
 
 ## Recent Projects**
-- Deployed **Bitbucket Data Center** with Bitbucket Pipelines for enterprise collaboration.  
-- Automated **Jira Software Data Center** deployment on AWS using Docker & Ansible (with Bastion access).  
-- Led healthcare automation with **Ansible Tower**, AWS governance, and **Parameter Store**.  
-- Streamlined CI/CD using **CodePipeline, CodeBuild, and CodeDeploy**.
+- Deployed Bitbucket Data Center with Bitbucket Pipelines for enterprise collaboration.  
+- Automated Jira Software Data Center deployment on AWS using Docker & Ansible (with Bastion access).  
+- Led a healthcare application deployment with Ansible Tower, AWS governance, and Parameter Store.  
+- Streamlined CI/CD using CodePipeline, CodeBuild, and CodeDeploy.
 
 ## 🛠️ Current Most Used Tools
 
@@ -45,21 +45,21 @@ I started my career in agriculture but transitioned into technology, driven by a
 
 
 ## Professional Interests
-Nothing excites me more than seeing developers confidently embrace **cloud-native technologies** and turn their ideas into applications that are **scalable, secure, and reliable**.    
-As a **Cloud Trainer** and **CIO of Solavise Technologies Institute**, I align this passion with my mission of **empowering communities through education and hands-on learning**.  
+Nothing excites me more than seeing developers confidently embrace cloud-native technologies and turn their ideas into applications that are scalable, secure, and reliable.    
+As a Cloud Trainer and CIO of Solavise Technologies Institute, I align this passion with my mission of empowering communities through education and hands-on learning.  
 
-I strongly advocate for **open-source software** (even though I don’t contribute as much as I’d like 😆), because I believe it fuels collaboration, accelerates innovation, and lowers barriers for everyone to thrive in tech.  
+I strongly advocate for open-source software (even though I don’t contribute as much as I’d like 😆), because I believe it fuels collaboration, accelerates innovation, and lowers barriers for everyone to thrive in tech.  
 
-At the heart of my interests is a commitment to **community empowerment** — ensuring that knowledge, tools, and opportunities in cloud and DevOps are accessible to all, especially in emerging markets.  
+At the heart of my interests is a commitment to community empowerment, ensuring that knowledge, tools, and opportunities in cloud and DevOps are accessible to all, especially in emerging markets.  
 
 ## I WILL EMPOWER A GENERATION OF CLOUD & DEVOPS ENGINEERS AND BECOME THE LEADING VOICE FOR CLOUD-NATIVE
 
 ## Personal Interests
 Outside the world of tech, I find joy in a few simple but meaningful things.  
-I enjoy **watching and playing football (soccer)**, getting lost in **good music**, exploring new places through **travel**  and **watching NatGeo documentaries** to feel nature.  
+I enjoy watching and playing football (soccer), getting lost in good music, exploring new places through travel  and watching NatGeo documentaries to embrace nature.  
 
 
-## Socials & How to Reach Me
+## Socials & How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericynyuydzewiryenkfea/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wiryenkfea)
@@ -68,7 +68,7 @@ I enjoy **watching and playing football (soccer)**, getting lost in **good music
 ## 🎤 Speaking
 I’ve had the privilege to speak at different platforms and communities, sharing my journey and insights in Cloud, DevOps, and AI. Here are a few highlights:
 
-- **ALX Africa** — *Building Your Personal Brand in Tech* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_personalbranding-mytechjourney-techcommunity-activity-7356312647832616960-iFgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
+- **ALX Africa** — *Building your Personal Brand in Tech* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_personalbranding-mytechjourney-techcommunity-activity-7356312647832616960-iFgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
 - **Bincom Dev Community, Nigeria** — *Revolutionizing Cloud and DevOps Engineering: The Impact of AI on Automation and Efficiency* [Watch on YouTube](https://youtu.be/W2ut9NiTvYg)  
 - **ALX Africa** — *Breaking Into Cloud & Building Your Portfolio* [Watch on YouTube](https://youtu.be/8VUEvzxJKcM)  
 - **All Nations University (ANU), Koforidua, Ghana** — *Exploring Career Paths with Technological Trends: The Impact of AI* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_techinhealthcare-ai-careerpaths-activity-7299679949089615872-UqL1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
@@ -76,9 +76,9 @@ I’ve had the privilege to speak at different platforms and communities, sharin
 
 ## Community
 
-I am active in the **Cloud Native** and **DevOps** community as:  
-- **Accra AWS User Group, Ghana — Active Member**  
-- **Andela Learning Community (ALC) Member**, supported by the **Linux Foundation** and the **Cloud Native Computing Foundation (CNCF)** 
+I am active in the Cloud Native and DevOps community as:  
+- Accra AWS User Group, Ghana — Active Member  
+- Andela Learning Community (ALC) Member, supported by the Linux Foundation and the Cloud Native Computing Foundation (CNCF) 
 
 ## Certifications
 
@@ -101,7 +101,7 @@ I am active in the **Cloud Native** and **DevOps** community as:
 ## My Cloud Native Plans (Checklist) — by End of 2025
 - [ ] **Speak at AWS User Group, Accra (Ghana)** — sharing my cloud journey, learning, and adoption of cloud-native tools  
 - [ ] **Speak at Bincom Dev Community (Nigeria)** — *Building Future-Ready Security: Applying Zero Trust Architecture to Safeguard Data in Modern Enterprise Systems*  
-- [ ] **Facilitate Jira Data Center Deployment on AWS with Docker & Ansible** — empowering the Solavise Tech community with hands-on knowledge  
+- [ ] **Facilitate Jira Data Center Deployment on AWS with Docker & Ansible** — part of Saturday workshop series to empower the Solavise Tech community with hands-on knowledge and enterprise experiece  
 - [ ] **Write and Pass the Certified Kubernetes Administrator (CKA)**  
 
  
