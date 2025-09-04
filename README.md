@@ -17,7 +17,7 @@ I’m Eric Nyuydze Wiryenkfea, a Cloud & DevOps Engineer, with 5+ years of exper
 
 
 ## Professional Journey
-I started my career in agriculture but transitioned into technology, driven by a passion for solving problems through innovation.  Along the way, I faced setbacks — including a failed attempt at building a startup — but those experiences shaped my resilience and clarity of purpose.   I’ve had the opportunity to work with **Alluvium**, an Atlassian and AWS Partner, deploying healthcare applications with ansible tower ensuring compliance and security, deploying and managing dedicated enterprise Jira data center softwares for customer to scale and manage workload. Today, I’ve grown into a Cloud & DevOps Engineer with expertise in **AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux**. Beyond engineering, I also serve as a **Cloud Trainer** and the **CIO of Solavise Technologies Institute** an AWS Technical partner, where I guide the next generation of tech talent.  
+I started my career in agriculture but transitioned into technology, driven by a passion for solving problems through innovation.  Along the way, I faced setbacks, including a failed attempt at building a startup, but those experiences shaped my resilience and clarity of purpose.   I’ve had the opportunity to work with **Alluvium**, an Atlassian and AWS Partner, designing and deploying a fully functional AWS EKS cluster within 3 weeks, implementing PostgreSQL logical replication with pglogical to ensure scalable, highly available and consistent applications, improving database reliability. Today, I’ve grown into a Cloud & DevOps Engineer with expertise in **AWS, Azure, CI/CD, Docker, Kubernetes, Terraform, Ansible, and Linux**. Beyond engineering, I also serve as a **Cloud Trainer** and the **CIO of Solavise Technologies Institute** an AWS Technical partner, where I guide people getting into tech aligning with industry standards.  
 
 
 ## Recent Projects**
@@ -68,16 +68,16 @@ I enjoy **watching and playing football (soccer)**, getting lost in **good music
 ## 🎤 Speaking
 I’ve had the privilege to speak at different platforms and communities, sharing my journey and insights in Cloud, DevOps, and AI. Here are a few highlights:
 
-- **ALX Africa** — *Building Your Personal Brand in Tech* [📄 Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_personalbranding-mytechjourney-techcommunity-activity-7356312647832616960-iFgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
-- **Bincom Dev Community, Nigeria** — *Revolutionizing Cloud and DevOps Engineering: The Impact of AI on Automation and Efficiency* [🎥 Watch on YouTube](https://youtu.be/W2ut9NiTvYg)  
-- **ALX Africa** — *Breaking Into Cloud & Building Your Portfolio* [🎥 Watch on YouTube](https://youtu.be/8VUEvzxJKcM)  
-- **All Nations University (ANU), Koforidua, Ghana** — *Exploring Career Paths with Technological Trends: The Impact of AI* [📄 Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_techinhealthcare-ai-careerpaths-activity-7299679949089615872-UqL1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
+- **ALX Africa** — *Building Your Personal Brand in Tech* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_personalbranding-mytechjourney-techcommunity-activity-7356312647832616960-iFgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
+- **Bincom Dev Community, Nigeria** — *Revolutionizing Cloud and DevOps Engineering: The Impact of AI on Automation and Efficiency* [Watch on YouTube](https://youtu.be/W2ut9NiTvYg)  
+- **ALX Africa** — *Breaking Into Cloud & Building Your Portfolio* [Watch on YouTube](https://youtu.be/8VUEvzxJKcM)  
+- **All Nations University (ANU), Koforidua, Ghana** — *Exploring Career Paths with Technological Trends: The Impact of AI* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_techinhealthcare-ai-careerpaths-activity-7299679949089615872-UqL1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
 
 
 ## Community
 
 I am active in the **Cloud Native** and **DevOps** community as:  
-- **AWS User Group, Ghana — Active Member**  
+- **Accra AWS User Group, Ghana — Active Member**  
 - **Andela Learning Community (ALC) Member**, supported by the **Linux Foundation** and the **Cloud Native Computing Foundation (CNCF)** 
 
 ## Certifications
