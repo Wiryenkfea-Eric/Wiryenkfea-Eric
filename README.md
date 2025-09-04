@@ -26,7 +26,7 @@ I started my career in agriculture but transitioned into technology, driven by a
 - Led a healthcare application deployment with Ansible Tower, AWS governance, and Parameter Store.  
 - Streamlined CI/CD using CodePipeline, CodeBuild, and CodeDeploy.
 
-## 🛠️ Current Most Used Tools
+## Current Most Used Tools
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
