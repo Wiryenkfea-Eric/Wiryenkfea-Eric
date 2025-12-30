@@ -68,6 +68,7 @@ I enjoy watching and playing football (soccer), getting lost in good music, expl
 ## 🎤 Speaking
 I’ve had the privilege to speak at different platforms and communities, sharing my journey and insights in Cloud, DevOps, and AI. Here are a few highlights:
 
+- **HashiTalks Africa** — *Securing Cloud Workloads with HashiCorp Vault: A Practical Guide for African Enterprises* [Watch on YouTube]
 - **ALX Africa** — *Building your Personal Brand in Tech* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_personalbranding-mytechjourney-techcommunity-activity-7356312647832616960-iFgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
 - **Bincom Dev Community, Nigeria** — *Revolutionizing Cloud and DevOps Engineering: The Impact of AI on Automation and Efficiency* [Watch on YouTube](https://youtu.be/W2ut9NiTvYg)  
 - **ALX Africa** — *Breaking Into Cloud & Building Your Portfolio* [Watch on YouTube](https://youtu.be/8VUEvzxJKcM)  
