@@ -72,13 +72,16 @@ I’ve had the privilege to speak at different platforms and communities, sharin
 - **ALX Africa** — *Building your Personal Brand in Tech* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_personalbranding-mytechjourney-techcommunity-activity-7356312647832616960-iFgE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
 - **Bincom Dev Community, Nigeria** — *Revolutionizing Cloud and DevOps Engineering: The Impact of AI on Automation and Efficiency* [Watch on YouTube](https://youtu.be/W2ut9NiTvYg)  
 - **ALX Africa** — *Breaking Into Cloud & Building Your Portfolio* [Watch on YouTube](https://youtu.be/8VUEvzxJKcM)  
-- **All Nations University (ANU), Koforidua, Ghana** — *Exploring Career Paths with Technological Trends: The Impact of AI* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_techinhealthcare-ai-careerpaths-activity-7299679949089615872-UqL1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)  
-
+- **All Nations University (ANU), Koforidua, Ghana** — *Exploring Career Paths with Technological Trends: The Impact of AI* [Read on LinkedIn](https://www.linkedin.com/posts/eric-nyuydze-wiryenkfea-198862162_techinhealthcare-ai-careerpaths-activity-7299679949089615872-UqL1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbs9IQBpE6FD8Yjlo3lVVR6x33Psb-KLpQ)
+- **Speak at AWS User Group, Accra (Ghana)** — shared my cloud journey, learning, and adoption of cloud-native tools
+- **Speak at Bincom Dev Community (Nigeria)** — *Building Future-Ready Security: Applying Zero Trust Architecture to Safeguard Data in Modern Enterprise Systems*
+- **Facilitate Jira Data Center Deployment on AWS with Docker & Ansible** — part of Saturday workshop series to empower the Solavise Tech community with hands-on knowledge and enterprise experiece  
 
 ## Community
 
 I am active in the Cloud Native and DevOps community as:  
-- Accra AWS User Group, Ghana — Active Member  
+- Accra AWS User Group, Ghana — Active Member
+- Co-organizer for HashiCorp User Group, Accra
 - Andela Learning Community (ALC) Member, supported by the Linux Foundation and the Cloud Native Computing Foundation (CNCF) 
 
 ## Certifications
@@ -99,10 +102,7 @@ I am active in the Cloud Native and DevOps community as:
 [![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](your-certificate-link)  
 
 
-## My Cloud Native Plans (Checklist) — by End of 2025
-- [ ] **Speak at AWS User Group, Accra (Ghana)** — sharing my cloud journey, learning, and adoption of cloud-native tools  
-- [ ] **Speak at Bincom Dev Community (Nigeria)** — *Building Future-Ready Security: Applying Zero Trust Architecture to Safeguard Data in Modern Enterprise Systems*  
-- [ ] **Facilitate Jira Data Center Deployment on AWS with Docker & Ansible** — part of Saturday workshop series to empower the Solavise Tech community with hands-on knowledge and enterprise experiece  
+## My Cloud Native Plans (Checklist) — by End of Q1 2026
 - [ ] **Write and Pass the Certified Kubernetes Administrator (CKA)**  
 
  
