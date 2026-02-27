@@ -3,9 +3,9 @@ I’m Eric Nyuydze Wiryenkfea, a Cloud & DevOps Engineer, with 5+ years of exper
 
 ## GitHub Stats
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiryenkfea-Eric&show_icons=true&theme=radical&hide_rank=true)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiryenkfea-Eric&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiryenkfea-Eric&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiryenkfea-Eric&layout=compact&theme=dark)
 
 ---
 
