@@ -28,7 +28,7 @@ Today I engineer cloud-native systems by day and train the next wave of engineer
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
